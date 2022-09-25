@@ -5,7 +5,7 @@
 
 ## About Me
 - Computer Engineering Student at UNAM 
-![](https://komarev.com/ghpvc/?username=carlossinhache&color=blueviolet	&style=flat-square)
+![](https://komarev.com/ghpvc/?username=carlossinhache&color=blueviolet&style=flat-square)
 
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=blueviolet	)

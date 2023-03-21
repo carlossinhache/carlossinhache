@@ -23,4 +23,6 @@
 ## 
 ## 
 ## 
+<p align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true)
+</p>

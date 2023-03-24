@@ -4,7 +4,9 @@
 
 <h1 align="center">About Me</h1>
 - Computer Engineering Student at UNAM 
+## Spotify
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=fffb00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true)
 
 ![](https://komarev.com/ghpvc/?username=carlossinhache&color=blueviolet&style=flat)
 
@@ -20,7 +22,7 @@
 <!--
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/csinhache)
 -->
-<p align="center">Spotify</p>
+## Spotify
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=fffb00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true)
 -->

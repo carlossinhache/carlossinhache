@@ -3,9 +3,11 @@
 ### Hello World! 🤖
 ## Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=fffb00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=fffb00&bar_color_cover=false" alt="Spotify GitHub Profile">
+</a>
 
-![](https://komarev.com/ghpvc/?username=carlossinhache&color=blueviolet&style=flat)
+<img src="https://komarev.com/ghpvc/?username=carlossinhache&color=blueviolet&style=flat" alt="GitHub Profile Views Counter">
 
 <h1 align="center">About Me</h1>
 - Computer Engineering Student at UNAM 

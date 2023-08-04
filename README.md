@@ -3,7 +3,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=carlossinhache&color=yellow"/> 
 </p>
-<hr/>
 <h2 align="center">My Stack</h2>
 
 <p align="center">

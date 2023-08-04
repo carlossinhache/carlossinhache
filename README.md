@@ -6,7 +6,7 @@
 <hr/>
 
 
-<p align="center">Spotify</p>
+<h1 align="center">Spotify</h1>
 <a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=fffb00&bar_color_cover=false" alt="Spotify GitHub Profile">
 </a>

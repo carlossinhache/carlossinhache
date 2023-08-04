@@ -4,11 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=carlossinhache&color=yellow"/> 
 </p>
 <hr/>
-{
-*  `My name is`: **Carlos Oz** (**He/Him**),
-* `I'm`: **22 years old**,
-* `Favorite lang`: **TypeScript**  
-}
+
 
 <p align="center">Spotify</p>
 <a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true">

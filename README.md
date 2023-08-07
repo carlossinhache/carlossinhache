@@ -16,9 +16,9 @@
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
-<picture>
+<picture align="center">
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=carlossinhache&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=carlossinhache&show_icons=true&theme=highcontrast"
     media="(prefers-color-scheme: dark)"
   />
   <source

@@ -1,7 +1,7 @@
 <h2 align="center"> Hello World! 🤖</h2>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=carlossinhache&color=yellow"/> 
+    <img src="https://profile-counter.glitch.me/carlossinhache/count.svg"/> 
 </p>
 <h2 align="center">My Stack</h2>
 

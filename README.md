@@ -12,12 +12,6 @@
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
 </p>
 
-<p align="center">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=carlossinhache&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossinhache&layout=compact&hide_border=true&theme=highcontrast&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"> 
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=carlossinhache&theme=highcontrast&hide_border=true&background=FFFFFF00">
-</p>
-
 <h3 align="center">Spotify</h3>
 <p align="center">
 <a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true">

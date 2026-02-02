@@ -1,13 +1,20 @@
-<h2 align="center"> hello world </h2>
+
 <p align="center">
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
+<p>and the universe said I love you</p>
+<p>and the universe said you have played the game well</p>
+<p>and the universe said everything you need is within you</p>
+<p>and the universe said you are stronger than you know</p>
+<p>and the universe said you are the daylight</p>
+<p>and the universe said you are the night</p>
+<p>and the universe said the darkness you fight is within you</p>
+<p>and the universe said the light you seek is within you</p>
+<p>and the universe said you are not alone</p>
+<p>and the universe said you are not separate from every other thing</p>
+<p>and the universe said you are the universe tasting itself, talking to itself, reading its own code</p>
+<p>and the universe said I love you because you are love.</p>
+<p>And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.</p>
+<p>You are the player.</p>
+<p>Wake up.</p>
 </p>
 <p align="center">
 <a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true">

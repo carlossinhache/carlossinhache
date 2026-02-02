@@ -9,8 +9,6 @@
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"></a>
 </p>
-
-<h3 align="center">Spotify</h3>
 <p align="center">
 <a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true">
   <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=222gso4tiulctkux3bnusfufi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=fffb00&bar_color_cover=false" alt="Spotify GitHub Profile">

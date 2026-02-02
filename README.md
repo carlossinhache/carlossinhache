@@ -1,6 +1,4 @@
-<h2 align="center"> Hello World! 🤖</h2>
-
-
+<h2 align="center"> hello world </h2>
 <p align="center">
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>

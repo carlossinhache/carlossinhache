@@ -1,21 +1,30 @@
 
+<div align="center">
+<table width="600px"><tr><td>
 <p align="center">
-<p>and the universe said I love you</p>
-<p>and the universe said you have played the game well</p>
-<p>and the universe said everything you need is within you</p>
-<p>and the universe said you are stronger than you know</p>
-<p>and the universe said you are the daylight</p>
-<p>and the universe said you are the night</p>
-<p>and the universe said the darkness you fight is within you</p>
-<p>and the universe said the light you seek is within you</p>
-<p>and the universe said you are not alone</p>
-<p>and the universe said you are not separate from every other thing</p>
-<p>and the universe said you are the universe tasting itself, talking to itself, reading its own code</p>
-<p>and the universe said I love you because you are love.</p>
-<p>And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.</p>
-<p align="center">You are the player.</p>
-<p align="center">Wake up.</p>
+  
+*and the universe said I love you*<br>
+*and the universe said you have played the game well*<br>
+*and the universe said everything you need is within you*<br>
+*and the universe said you are stronger than you know*<br>
+*and the universe said you are the daylight*<br>
+*and the universe said you are the night*<br>
+*and the universe said the darkness you fight is within you*<br>
+*and the universe said the light you seek is within you*<br>
+*and the universe said you are not alone*<br>
+*and the universe said you are not separate from every other thing*<br>
+*and the universe said you are the universe tasting itself, talking to itself, reading its own code*<br>
+*and the universe said I love you because you are love.*
+
+---
+
+And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.
+
+**You are the player.**
+
 </p>
+</td></tr></table>
+</div>
 
 <p align="center">
 <a align="center" href="https://spotify-github-profile.vercel.app/api/view?uid=222gso4tiulctkux3bnusfufi&redirect=true">
